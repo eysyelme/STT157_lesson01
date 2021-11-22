@@ -1,0 +1,6 @@
+output_dir: docs
+delete_merge_file: true
+#language:
+#   ui:
+#    chapter_name: "Chapter"
+    
